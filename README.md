@@ -1,2 +1,15 @@
-# Social-Networking-Test-Project
-Test project to develop a thick-client web application using technologies as Node.JS, Express, MongoDB, AngularJS, JQuery and Bootstrap.
+## Social Networking Test Project 
+
+This showcase project was developed to be a "Social Networking"-like  application using a thick-client and MEAN application concepts.
+
+### Technologies
+
+The following technologies was used in this project:
+- NodeJS and Express on server side
+- NodeDB (NoSQL) 
+- AngularJS and JQuery (JavaScript)
+- Bootstrap (HTML and CSS)  
+
+### Contact
+
+Having trouble when cloning this project? Contact me at brunodouglas@gmail.com and we can figure this out (:
