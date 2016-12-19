@@ -1,6 +1,6 @@
 ## Social Networking Test Project 
 
-This showcase project was developed to be a "Social Networking"-like  application using a thick client to implement the MEAN application conecpts.
+This showcase project was developed to be a "Social Networking"-like  application using a thick-client and MEAN application concepts.
 
 ### Technologies
 
